@@ -2,7 +2,7 @@
 
 | Cross Site Scripting |
 |---------|
-|<div style="text-align:justify;">XSS (Cross Site Scripting) adalah jenis serangan keamanan pada aplikasi web di mana penyerang memasukkan kode berbahaya (biasanya dalam bentuk skrip) ke dalam halaman web yang kemudian dieksekusi oleh browser pengguna lain. Serangan ini memanfaatkan kelemahan validasi input pada aplikasi web yang memungkinkan kode berbahaya tersebut disuntikkan ke dalam halaman web yang dianggap aman oleh pengguna.</div>  |
+|<p align="justify">XSS (Cross Site Scripting) adalah jenis serangan keamanan pada aplikasi web di mana penyerang memasukkan kode berbahaya (biasanya dalam bentuk skrip) ke dalam halaman web yang kemudian dieksekusi oleh browser pengguna lain. Serangan ini memanfaatkan kelemahan validasi input pada aplikasi web yang memungkinkan kode berbahaya tersebut disuntikkan ke dalam halaman web yang dianggap aman oleh pengguna.</p>  |
 
 1. xss
 ```
@@ -60,7 +60,7 @@
 
 | Ghost Code Night |
 |---------|
-|<div style="text-align:justify;">Contoh eksploitasi XSS yang disertakan dalam dokumentasi ini hanya untuk **tujuan pendidikan dan pembelajaran**, jika ada seseorang yang menggunakan hal ini untuk tujuan yang tidak baik, atau melanggar aturan/etika **kami tidak bertaggung jawab**, xss adalah kerentanan keamanan yang memungkinkan penyerang menyuntikkan skrip berbahaya ke dalam situs web. Tujuan dari contoh ini adalah untuk **memahami** bagaimana serangan ini bekerja dan bagaimana melindungi aplikasi Anda dari potensi risiko.</div>  |
+|<p align="justify">Contoh eksploitasi XSS yang disertakan dalam dokumentasi ini hanya untuk **tujuan pendidikan dan pembelajaran**, jika ada seseorang yang menggunakan hal ini untuk tujuan yang tidak baik, atau melanggar aturan/etika **kami tidak bertaggung jawab**, xss adalah kerentanan keamanan yang memungkinkan penyerang menyuntikkan skrip berbahaya ke dalam situs web. Tujuan dari contoh ini adalah untuk **memahami** bagaimana serangan ini bekerja dan bagaimana melindungi aplikasi Anda dari potensi risiko.</p>  |
 
 - **HARAP DI INGAT**
 - Jangan gunakan teknik ini pada sistem atau aplikasi tanpa izin
